@@ -1,0 +1,24 @@
+{
+  "name": "Eastern SERVE Team",
+  "status": "Ideation",
+  "contact": {
+    "name": "Eastern SERVE Team",
+    "email": "easternsft@gmail.com"
+  },
+  "partners": [
+    {
+      "name": "Eastern Senior High School",
+      "url": "easternsft.wix.com/serve"
+    }
+  ],
+  "description": "This is an algorithm that matches students with community-service organizations.",
+  "license": "MIT",
+  "repository": "https://github.com/EasternSFT/SERVE/",
+  "geography": [],
+  "data": [],
+  "tags": [
+    "community service"
+  ],
+  "links": [],
+  "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json"
+}
